@@ -1,4 +1,4 @@
-# Stealthburner-Dual-channel-Filament
+![image](https://github.com/wei-chengsheng/Stealthburner-Dual-channel-Filament-Cutter/assets/92136903/a80e0319-fda8-4acd-9661-a3749a3d6510)# Stealthburner-Dual-channel-Filament
 # 我设想了一个双通道多色3D打印机头方案，当3D打印机工作时双通道系统使得一通道内的耗材始终属于待机状态，而另一个通道内的耗材在滑动。此时由于双通道的存在，则不需要像单通道那样进行长距离的缩回耗材动作， 以此来缩短换色过程中抽取和送料的时间来达到增加多色3D打印的工作速度。这个方案目前已经接近完成，我希望能有更多的参与者来一起挖掘这个方案的可能性
 
 # 主要的结构图像效果
@@ -16,3 +16,7 @@
 * 欧姆龙d2f-L的金属长臂不需要去除
 * 微动开关作为传感器存在，它们的距离是20mm
 ![微信截图_20231226013455](https://github.com/wei-chengsheng/Stealthburner-Dual-channel-Filament-Cutter/assets/92136903/2167594a-1de2-4b2b-b3fb-83e37aaacb65)
+# 如果你的打印出的零件效果不太好，安装刀片可能不太顺利，你可以将刀片加热到适合的温度后再进行安装
+![微信截图_20231226020353](https://github.com/wei-chengsheng/Stealthburner-Dual-channel-Filament-Cutter/assets/92136903/4737cdf8-fe18-4773-a7da-056ac1011e4f)
+# 集汇
+![微信截图_20231226020055](https://github.com/wei-chengsheng/Stealthburner-Dual-channel-Filament-Cutter/assets/92136903/77f16e99-1d0e-4524-ba8b-c06e61660824)
