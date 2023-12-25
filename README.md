@@ -4,6 +4,7 @@
 ![J97%J} 7%Y18I%7S73~ DRF](https://github.com/wei-chengsheng/Stealthburner-Dual-channel-Filament-Cutter/assets/92136903/8b80fc98-acee-46ed-95f9-6764ebcdc991)
 
 对部分外观进行重构
+
 ![@U6WBW($~T{QM_Z Z4$PM6P](https://github.com/wei-chengsheng/Stealthburner-Dual-channel-Filament-Cutter/assets/92136903/f7bdf06d-14ad-4b7b-bfde-035653b0069f)
 
 考虑到需要快速装卸的可能性改为了磁吸结构以便操作及ADXL345传感器位置变动
