@@ -17,6 +17,7 @@
 * 微动开关作为传感器存在，它们的距离是20mm
 ![微信截图_20231226013455](https://github.com/wei-chengsheng/Stealthburner-Dual-channel-Filament-Cutter/assets/92136903/2167594a-1de2-4b2b-b3fb-83e37aaacb65)
 # 如果你的打印出的零件效果不太好，安装刀片可能不太顺利，你可以将刀片加热到适合的温度后再进行安装
+* 雕刻刀片非常的锋利，在安装时一定要注意安全，你不会希望一把血祭刀片或许带来的更好的切割效果
 ![微信截图_20231226020353](https://github.com/wei-chengsheng/Stealthburner-Dual-channel-Filament-Cutter/assets/92136903/4737cdf8-fe18-4773-a7da-056ac1011e4f)
 # 集汇
 ![微信截图_20231226020055](https://github.com/wei-chengsheng/Stealthburner-Dual-channel-Filament-Cutter/assets/92136903/77f16e99-1d0e-4524-ba8b-c06e61660824)
