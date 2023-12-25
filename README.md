@@ -15,7 +15,7 @@
 # 一些你必须要知道的注意事项
 * 注意在此结构中使用的欧姆龙d2f-L的金属长臂不需要去除
 * 注意微动开关作为传感器存在，它们的距离是20mm
-* 注意切刀的极限触发行程为12.55mm，在实际应用的时候当然是不需要这么极端，毕竟耗材的直径才1.75mm,我相信你不会希望超过极限形成对其他零件或者打印效果产生影响
+* 注意切刀的极限触发行程为12.55mm，在实际应用的时候当然是不需要这么极端，毕竟耗材的直径才1.75mm,我相信你不会希望超过极限行程对其他零件或者打印效果产生影响
 ![微信截图_20231226013455](https://github.com/wei-chengsheng/Stealthburner-Dual-channel-Filament-Cutter/assets/92136903/2167594a-1de2-4b2b-b3fb-83e37aaacb65)
 ![MJ2)RP)LKE `YWR@%_W%Z@U](https://github.com/wei-chengsheng/Stealthburner-Dual-channel-Filament-Cutter/assets/92136903/c2b15088-97d3-4179-8a98-14f651c56394)
 # 如果你的打印出的零件效果不太好，安装刀片可能不太顺利，你可以将刀片加热到适合的温度后再进行安装
