@@ -24,6 +24,6 @@
 # 集汇
 * 由于本人喜欢追求细节，故在模型细节上针对FDM3D打印成型方式做了很多细节上的改动，所以建议全部重新打印以确保愉快的安装体验
 ![微信截图_20231226020055](https://github.com/wei-chengsheng/Stealthburner-Dual-channel-Filament-Cutter/assets/92136903/77f16e99-1d0e-4524-ba8b-c06e61660824)
-# 建议讨论联系方式
+# 改善建议及讨论联系方式
 * 谷歌邮箱：ly864997@gmail.com
 * QQ邮箱：1009805111@qq.com
